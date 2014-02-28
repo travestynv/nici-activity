@@ -1,0 +1,31 @@
+
+/* Alert styles for nici Class Participation Report Rev.3    */
+.alerttext {
+	background-color:#CCC;
+	
+}
+
+.codeBlue {
+	color: #0066FF;
+
+}
+
+.codeGreen {
+	color:#0C6;
+
+}
+
+.codeYellow {
+	background-color: #FF0;
+}
+
+.codeRed {
+	background-color: #F30;
+
+}
+
+/* link styles for nici Class Participation Report Rev.3    */
+
+#sendStudentAlert {
+	background-image:url(../images/email.png);
+	
